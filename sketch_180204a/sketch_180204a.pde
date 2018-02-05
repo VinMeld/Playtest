@@ -1,8 +1,8 @@
 size(300,400); 
-//Eyebrow on right
 //Overall face
 fill(255,0,0);
 ellipse(180,130,200,200);
+//Eyebrow on right
 stroke(100,0,200);
 line(200,50,260,85);
 //Eye on right
